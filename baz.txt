@@ -1,3 +1,7 @@
 pokemon
 modified
+ HEAD
 modded again
+
+modded again in exercise 7
+ development
